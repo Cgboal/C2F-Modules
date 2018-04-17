@@ -4,4 +4,4 @@ from uuid import uuid4
 
 http = rest.Rester()
 
-http.post("HelloWorldResult", {"random_string": "hahahahaha fucking uuid"})
+http.post("HelloWorldResult", {"random_string": "asdasdawega"})
