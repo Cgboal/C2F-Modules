@@ -1,0 +1,3 @@
+[submodule "C2-SDK"]
+	path = C2-SDK
+	url = https://git.veldt.me/cgboal/C2-SDK.git
